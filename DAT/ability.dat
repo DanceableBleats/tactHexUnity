@@ -1,0 +1,41 @@
+-- Format is:
+-- AbilityID, AbilityName
+
+000, None
+001, Undead
+002, TerrainAdvantage
+003, Bloodlust
+004, Entrench
+005, ShieldBrother
+006, HoldTheLine
+007, Archery
+008, SuperiorArchery
+009, Charge
+010, SuperiorCharge
+011, Regen2
+012, SweepAside
+013, Flight4
+014, DiveAttack
+015, Flight5
+016, SuperiorDive
+017, Starstruck
+018, Flight3
+019, DragonMage
+020, ScoutVision
+021, MountainWalk
+022, Pathfinder
+023, Evasion
+024, Sabotage
+025, Assassinate
+026, Siege
+027, BallistaBolt
+028, StrongholdBonus
+029, Trebuchet
+030, Banditry
+031, NaturalAdvantage
+032, WoodlandStealth
+033, StrongholdFortify
+034, CapitalFortify
+035, Income3
+036, Income4
+037, TowerBonus
